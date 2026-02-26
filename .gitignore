@@ -2,8 +2,8 @@
 security-token.txt
 state/
 cas-automation/.venv/
-cas-automation/input/
-cas-automation/output/
+cas-automation/input/*.pdf
+cas-automation/output/*.csv
 pgdata/
 .env
 

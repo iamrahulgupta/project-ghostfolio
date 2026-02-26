@@ -1,0 +1,1 @@
+## The output csv is placed here after execution of the extracttion script
